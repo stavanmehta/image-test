@@ -1,0 +1,1 @@
+This is not an image file and while reading this file, it should throw exception
